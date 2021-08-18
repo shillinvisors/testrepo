@@ -1,2 +1,2 @@
 # testrepo
-Test repo for Eclipse.
+Test repo for Eclipse.  Demo commit.
